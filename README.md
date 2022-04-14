@@ -5,6 +5,15 @@
 Let us examine the future movements in the value of the Japanese Yen versus the U.S. dollar using Time Series tools and historical data for the Yen price from 1990 to 2019.
 
 
+# Source Code
+
+[Time Series Analysis](time_series_analysis.ipynb)
+
+[Regression Analysis](regression_analysis.ipynb)
+
+
+# Sample Results
+
 ## Time Series Analysis
 
 1. Decomposition using a Hodrick-Prescott Filter.
